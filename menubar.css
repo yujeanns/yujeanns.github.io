@@ -3,3 +3,4 @@
 #menubar ul li {display:inline-block; list-style-type:none; padding:0px 15px;}
 #menubar ul li a{color:#33CC66; text-decoration:none;}
 #menubar ul li a:hover {color:black}
+hr {border:3px solid;}
